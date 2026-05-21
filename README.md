@@ -8,6 +8,12 @@ Aspiring MERN Full Stack Developer | React • Node • MongoDB
 <img src="https://i.postimg.cc/T1K4rZ4y/Chat-GPT-Image-May-22-2026-01-03-06-AM.png" width="900"/>
 </p>
 
+<p align="center">
+<a href="https://drive.google.com/uc?export=download&id=1Me_sJHWhjBRIUHhsG5H8eG9ZfqGqDBR4">
+<img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 <p align="center">
