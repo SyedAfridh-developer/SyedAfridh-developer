@@ -11,7 +11,7 @@ Aspiring MERN Full Stack Developer | React • Node • MongoDB
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+MERN+Full+Stack+Developer;Computer+Science+and+Engineering+Graduate;React+Developer;Node.js+Backend+Developer;Building+Scalable+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Aspiring+MERN+Full+Stack+Developer;Computer+Science+and+Engineering+Graduate;React+Developer;Node.js+Backend+Developer;Building+Scalable+Modern+Web+Applications" />
 </p>
 
 ---
