@@ -5,7 +5,7 @@ Aspiring MERN Full Stack Developer | React • Node • MongoDB
 </h3>
 
 <p align="center">
-<img src="https://i.postimg.cc/T1K4rZ4y/Chat-GPT-Image-May-22-2026-01-03-06-AM.png"  width="900"/>
+<img src="https://i.postimg.cc/T1K4rZ4y/Chat-GPT-Image-May-22-2026-01-03-06-AM.png" width="900"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ height="50" width="50" />
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyedAfridh-developer&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SyedAfridh-developer&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 </p>
 
@@ -93,7 +93,7 @@ height="50" width="50" />
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAfridh-developer&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAfridh-developer&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </p>
 
