@@ -9,7 +9,7 @@ Aspiring MERN Full Stack Developer | React • Node • MongoDB
 </p>
 
 <p align="center">
-<a href="https://drive.google.com/uc?export=download&id=1Me_sJHWhjBRIUHhsG5H8eG9ZfqGqDBR4">
+<a href="https://drive.google.com/uc?export=download&id=18JaQ6ufOvYE30-GdVq-KxGra-td5XyyP">
 <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
